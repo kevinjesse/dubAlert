@@ -40,7 +40,6 @@ game_score = None
 
 
 tester = "kjesse@ucsc.edu"
-#email = "anmoljain15@gmail.com"
 
 def index():
 

@@ -31,21 +31,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="default.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="default.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web2py_dubAlert/applications/dubAlert/controllers/default.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.9577465" vertical-offset="2260" max-vertical-offset="3030">
-              <caret line="192" column="11" selection-start-line="192" selection-start-column="11" selection-end-line="192" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3015">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="alert.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="alert.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web2py_dubAlert/applications/dubAlert/controllers/alert.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2260" max-vertical-offset="3030">
-              <caret line="192" column="11" selection-start-line="192" selection-start-column="11" selection-end-line="192" selection-end-column="11" />
+            <state vertical-scroll-proportion="0.86619717" vertical-offset="0" max-vertical-offset="3015">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -525,18 +525,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web2py_dubAlert/applications/dubAlert/controllers/alert.py">
+    <entry file="file://$PROJECT_DIR$/web2py_dubAlert/applications/dubAlert/controllers/default.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2260" max-vertical-offset="3030">
-          <caret line="192" column="11" selection-start-line="192" selection-start-column="11" selection-end-line="192" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3015">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web2py_dubAlert/applications/dubAlert/controllers/default.py">
+    <entry file="file://$PROJECT_DIR$/web2py_dubAlert/applications/dubAlert/controllers/alert.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.9577465" vertical-offset="2260" max-vertical-offset="3030">
-          <caret line="192" column="11" selection-start-line="192" selection-start-column="11" selection-end-line="192" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.86619717" vertical-offset="0" max-vertical-offset="3015">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
           <folding />
         </state>
       </provider>
