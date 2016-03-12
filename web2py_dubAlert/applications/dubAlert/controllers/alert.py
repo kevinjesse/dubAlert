@@ -115,7 +115,7 @@ def set_alert():
 
     # #TESTING
     #
-    game_id = '0021500962'
+    #game_id = '0021500962'
     #
     #
     # #TESTING
